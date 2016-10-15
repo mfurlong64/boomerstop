@@ -10,16 +10,15 @@ MVP Boomerstop (Web Shope)
 
 - User can visit a product link
 
-### Stretch Goals
+###
 
 - User can filter product by category
 
 - User can sign in, login, sign out (CRUD) - Devise?
 
-- 
+- Admin User can add and remove a products (Admin GEM Ruby)
 
-- Admin User can easily add and remove a products (Admin GEM Ruby)
-
+- Admin can view automated data through d3 visio
 
 
 

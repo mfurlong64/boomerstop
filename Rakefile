@@ -4,3 +4,10 @@
 require_relative 'config/application'
 
 Rails.application.load_tasks
+
+task :console do
+  require 'irb'
+  require 'irb/completion'
+  ARGV.clear
+  IRB.start
+end

@@ -1,0 +1,28 @@
+MVP Boomerstop (Web Shope)
+
+### User Stories 
+
+- User can view ALL products (INDEX)
+
+- User can view ONE product (SHOW)
+
+- User can click on a product image
+
+- User can visit a product link
+
+###
+
+- User can filter product by category
+
+- User can sign in, login, sign out (CRUD) - Devise?
+
+- Admin User can add and remove a products (Admin GEM Ruby)
+
+- Admin can view automated data through d3 visio
+
+
+
+
+
+
+

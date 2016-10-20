@@ -17,7 +17,7 @@ Product.create(
 )
 
 Product.create(
-  name: 'Golden Pup',
+  name: 'Body Suit',
   description: 'Hasbro Robotic Dog',
   photo: 'http://images10.newegg.com/BizIntell/item/74/330/74-330-050/q3.png',
   price: 5,
@@ -25,7 +25,7 @@ Product.create(
 )
 
 Product.create(
-  name: 'Golden Pup',
+  name: 'Easy Smart Phone',
   description: 'Hasbro Robotic Dog',
   photo: 'http://images10.newegg.com/BizIntell/item/74/330/74-330-050/q3.png',
   price: 5,
